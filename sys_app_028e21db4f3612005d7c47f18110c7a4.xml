@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>traditional</js_level>
+        <licensable>true</licensable>
+        <logo/>
+        <menu display_value="Marketing Event">4aa0711f4f3612005d7c47f18110c7d9</menu>
+        <name>Marketing Events Application</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking/>
+        <scope>x_10531_marketing</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_10531_marketing</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>hrichter-admin</sys_created_by>
+        <sys_created_on>2016-04-20 16:56:15</sys_created_on>
+        <sys_id>028e21db4f3612005d7c47f18110c7a4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>hrichter-admin</sys_updated_by>
+        <sys_updated_on>2016-04-26 17:39:57</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

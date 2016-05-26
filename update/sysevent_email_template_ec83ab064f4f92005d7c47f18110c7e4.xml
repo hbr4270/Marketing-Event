@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_10531_marketing_attendee</collection>
+        <message/>
+        <message_html><![CDATA[<p><img style="align: baseline;" title="" src="gator.jpgx" alt="" height="" align="baseline" border="" hspace="" vspace="" /></p>
+<table id="t_CreateAnEmailTemplate__table_cm5_qwq_dq" class="table" style="color: #333333; font-size: 14px; margin: 20px 0px; text-align: left;" border="1" summary="" frame="border" rules="all" cellspacing="0" cellpadding="4">
+<tbody class="tbody" style="margin: 0px;">
+<tr class="row" style="margin: 0px -15px;">
+<td class="entry" style="margin: 0px;" colspan="1" rowspan="1" headers="d7170e97" valign="top" width="50%">Dear ${first_name},
+<p class="p" style="margin: 1em 0px 10px;">This is to confirm that you are registered for ${marketing_event.name}. We look forward to seeing you at the event. If you have any questions, please contact the event team at 1-888-555-1212.</p>
+<p class="p" style="margin: 1em 0px 10px;" data-analytics="track">Thank you!</p>
+</td>
+</tr>
+</tbody>
+</table>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Marketing Event Registration</name>
+        <sms_alternate/>
+        <subject>Thank you for registering for ${marketing_event.name}</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>hrichter-admin</sys_created_by>
+        <sys_created_on>2016-04-29 14:32:36</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ec83ab064f4f92005d7c47f18110c7e4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Marketing Event Registration</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_10531_marketing">028e21db4f3612005d7c47f18110c7a4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">028e21db4f3612005d7c47f18110c7a4</sys_scope>
+        <sys_update_name>sysevent_email_template_ec83ab064f4f92005d7c47f18110c7e4</sys_update_name>
+        <sys_updated_by>hrichter-admin</sys_updated_by>
+        <sys_updated_on>2016-04-29 15:24:24</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
